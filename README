@@ -1,0 +1,1 @@
+A quick and dirty implementation of a BitTorrent tracker written in Ruby, using Sinatra and Memcache. It handles passkeys and torrent client whitelists.
